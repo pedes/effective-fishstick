@@ -1,7 +1,11 @@
 # KPIs
 
 Quality (Performance)
-- Response Time
+- Response Time (expected avg response time 600ms) API -> Website (target = render in less 1 sec)
+
+Healthy utilization resources (CPU Ram)
+Number of Alerts per high resource consumption
+
 - Average response time PER api
 - Client Requests per Client
 - Expected throughput TPS (performance) 1000  Clients in second
